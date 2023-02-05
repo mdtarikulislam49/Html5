@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf=8">
+<meta name="description" content="This an awesome ";
+<title>Tarik Website</title>
+</head>
+<body>
+<h4> Tarikes's website</h4>
+<hr/>
+<p> <big>This</big> is <small>my</small> <b><i>web site</i></b></p>
+<p> This is another landmark </p>
+<p>H<sub>2</sub>O
+<p>10<sup>2</sup><p>
+</body>
+
+</html>
